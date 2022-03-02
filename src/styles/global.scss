@@ -1,0 +1,10 @@
+$base-color: #c6538c;
+$color: rgba(rgb(92, 13, 75), 0.88);
+
+body{
+    background-color: $base-color;
+    color: $color;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
